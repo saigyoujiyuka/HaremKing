@@ -5,11 +5,11 @@
     <SingleplayerModule value="true"/>
     <MultiplayerModule value="false"/>
     <DependedModules>
-        <DependedModule Id="Native"/>
-        <DependedModule Id="SandBoxCore"/>
-        <DependedModule Id="Sandbox"/>
-        <DependedModule Id="CustomBattle"/>
-        <DependedModule Id="StoryMode" />
+        <DependedModule Id="Native" DependentVersion="v1.1.6"/>
+        <DependedModule Id="SandBoxCore" DependentVersion="v1.1.6"/>
+        <DependedModule Id="Sandbox" DependentVersion="v1.1.6"/>
+        <DependedModule Id="CustomBattle" DependentVersion="v1.1.6"/>
+        <DependedModule Id="StoryMode" DependentVersion="v1.1.6"/>
     </DependedModules>
     <SubModules>
         <SubModule>
@@ -17,8 +17,8 @@
             <DLLName value="HaremKingv3.dll"/>
             <SubModuleClassType value="HaremKingv3.HaremKingv3SubModule"/>
             <Tags>
-                <Tag key="DedicatedServerType" value="none" />
-                <Tag key="IsNoRenderModeElement" value="false" />
+                <Tag key="DedicatedServerType" value="none"/>
+                <Tag key="IsNoRenderModeElement" value="false"/>
             </Tags>
         </SubModule>
     </SubModules>
