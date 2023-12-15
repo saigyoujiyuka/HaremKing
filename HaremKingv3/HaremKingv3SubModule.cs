@@ -22,11 +22,6 @@ namespace HaremKingv3
             new Harmony("HaremKingv3").PatchAll();
         }
 
-        //protected override void OnApplicationTick(float dt)
-        //{
-        //    base.OnApplicationTick(dt);
-        //}
-
         protected override void OnGameStart(Game game, IGameStarter gameStarterObject)
         {
             base.OnGameStart(game, gameStarterObject);
