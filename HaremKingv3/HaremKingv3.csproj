@@ -33,7 +33,7 @@
   <ItemGroup>
     <Reference Include="0Harmony, Version=2.3.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>E:\MountAndBlade\dev\lib\1.1.6\0Harmony.dll</HintPath>
+      <HintPath>E:\MountAndBlade\dev\lib\1.2.9\0Harmony.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -45,211 +45,214 @@
     <Reference Include="System.Xml" />
     <Reference Include="TaleWorlds.AchievementSystem, Version=1.0.0.0, Culture=neutral, processorArchitecture=AMD64">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>E:\MountAndBlade\dev\lib\1.1.6\TaleWorlds.AchievementSystem.dll</HintPath>
+      <HintPath>E:\MountAndBlade\dev\lib\1.2.9\TaleWorlds.AchievementSystem.dll</HintPath>
     </Reference>
     <Reference Include="TaleWorlds.ActivitySystem, Version=1.0.0.0, Culture=neutral, processorArchitecture=AMD64">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>E:\MountAndBlade\dev\lib\1.1.6\TaleWorlds.ActivitySystem.dll</HintPath>
+      <HintPath>E:\MountAndBlade\dev\lib\1.2.9\TaleWorlds.ActivitySystem.dll</HintPath>
     </Reference>
     <Reference Include="TaleWorlds.CampaignSystem, Version=1.0.0.0, Culture=neutral, processorArchitecture=AMD64">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>E:\MountAndBlade\dev\lib\1.1.6\TaleWorlds.CampaignSystem.dll</HintPath>
+      <HintPath>E:\MountAndBlade\dev\lib\1.2.9\TaleWorlds.CampaignSystem.dll</HintPath>
     </Reference>
     <Reference Include="TaleWorlds.CampaignSystem.ViewModelCollection, Version=1.0.0.0, Culture=neutral, processorArchitecture=AMD64">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>E:\MountAndBlade\dev\lib\1.1.6\TaleWorlds.CampaignSystem.ViewModelCollection.dll</HintPath>
+      <HintPath>E:\MountAndBlade\dev\lib\1.2.9\TaleWorlds.CampaignSystem.ViewModelCollection.dll</HintPath>
     </Reference>
     <Reference Include="TaleWorlds.Core, Version=1.0.0.0, Culture=neutral, processorArchitecture=AMD64">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>E:\MountAndBlade\dev\lib\1.1.6\TaleWorlds.Core.dll</HintPath>
+      <HintPath>E:\MountAndBlade\dev\lib\1.2.9\TaleWorlds.Core.dll</HintPath>
     </Reference>
     <Reference Include="TaleWorlds.Core.ViewModelCollection, Version=1.0.0.0, Culture=neutral, processorArchitecture=AMD64">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>E:\MountAndBlade\dev\lib\1.1.6\TaleWorlds.Core.ViewModelCollection.dll</HintPath>
+      <HintPath>E:\MountAndBlade\dev\lib\1.2.9\TaleWorlds.Core.ViewModelCollection.dll</HintPath>
     </Reference>
     <Reference Include="TaleWorlds.Diamond, Version=1.0.0.0, Culture=neutral, processorArchitecture=AMD64">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>E:\MountAndBlade\dev\lib\1.1.6\TaleWorlds.Diamond.dll</HintPath>
+      <HintPath>E:\MountAndBlade\dev\lib\1.2.9\TaleWorlds.Diamond.dll</HintPath>
     </Reference>
     <Reference Include="TaleWorlds.Diamond.AccessProvider.Epic, Version=1.0.0.0, Culture=neutral, processorArchitecture=AMD64">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>E:\MountAndBlade\dev\lib\1.1.6\TaleWorlds.Diamond.AccessProvider.Epic.dll</HintPath>
+      <HintPath>E:\MountAndBlade\dev\lib\1.2.9\TaleWorlds.Diamond.AccessProvider.Epic.dll</HintPath>
     </Reference>
     <Reference Include="TaleWorlds.Diamond.AccessProvider.GDK, Version=1.0.0.0, Culture=neutral, processorArchitecture=AMD64">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>E:\MountAndBlade\dev\lib\1.1.6\TaleWorlds.Diamond.AccessProvider.GDK.dll</HintPath>
+      <HintPath>E:\MountAndBlade\dev\lib\1.2.9\TaleWorlds.Diamond.AccessProvider.GDK.dll</HintPath>
     </Reference>
     <Reference Include="TaleWorlds.Diamond.AccessProvider.GOG, Version=1.0.0.0, Culture=neutral, processorArchitecture=AMD64">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>E:\MountAndBlade\dev\lib\1.1.6\TaleWorlds.Diamond.AccessProvider.GOG.dll</HintPath>
+      <HintPath>E:\MountAndBlade\dev\lib\1.2.9\TaleWorlds.Diamond.AccessProvider.GOG.dll</HintPath>
     </Reference>
     <Reference Include="TaleWorlds.Diamond.AccessProvider.Steam, Version=1.0.0.0, Culture=neutral, processorArchitecture=AMD64">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>E:\MountAndBlade\dev\lib\1.1.6\TaleWorlds.Diamond.AccessProvider.Steam.dll</HintPath>
+      <HintPath>E:\MountAndBlade\dev\lib\1.2.9\TaleWorlds.Diamond.AccessProvider.Steam.dll</HintPath>
     </Reference>
     <Reference Include="TaleWorlds.Diamond.AccessProvider.Test, Version=1.0.0.0, Culture=neutral, processorArchitecture=AMD64">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>E:\MountAndBlade\dev\lib\1.1.6\TaleWorlds.Diamond.AccessProvider.Test.dll</HintPath>
+      <HintPath>E:\MountAndBlade\dev\lib\1.2.9\TaleWorlds.Diamond.AccessProvider.Test.dll</HintPath>
     </Reference>
     <Reference Include="TaleWorlds.Diamond.ChatSystem.Library, Version=1.0.0.0, Culture=neutral, processorArchitecture=AMD64">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>E:\MountAndBlade\dev\lib\1.1.6\TaleWorlds.Diamond.ChatSystem.Library.dll</HintPath>
+      <HintPath>E:\MountAndBlade\dev\lib\1.2.9\TaleWorlds.Diamond.ChatSystem.Library.dll</HintPath>
     </Reference>
     <Reference Include="TaleWorlds.DotNet, Version=1.0.0.0, Culture=neutral, processorArchitecture=AMD64">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>E:\MountAndBlade\dev\lib\1.1.6\TaleWorlds.DotNet.dll</HintPath>
+      <HintPath>E:\MountAndBlade\dev\lib\1.2.9\TaleWorlds.DotNet.dll</HintPath>
     </Reference>
     <Reference Include="TaleWorlds.DotNet.AutoGenerated, Version=1.0.0.0, Culture=neutral, processorArchitecture=AMD64">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>E:\MountAndBlade\dev\lib\1.1.6\TaleWorlds.DotNet.AutoGenerated.dll</HintPath>
+      <HintPath>E:\MountAndBlade\dev\lib\1.2.9\TaleWorlds.DotNet.AutoGenerated.dll</HintPath>
     </Reference>
     <Reference Include="TaleWorlds.Engine, Version=1.0.0.0, Culture=neutral, processorArchitecture=AMD64">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>E:\MountAndBlade\dev\lib\1.1.6\TaleWorlds.Engine.dll</HintPath>
+      <HintPath>E:\MountAndBlade\dev\lib\1.2.9\TaleWorlds.Engine.dll</HintPath>
     </Reference>
     <Reference Include="TaleWorlds.Engine.AutoGenerated, Version=1.0.0.0, Culture=neutral, processorArchitecture=AMD64">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>E:\MountAndBlade\dev\lib\1.1.6\TaleWorlds.Engine.AutoGenerated.dll</HintPath>
+      <HintPath>E:\MountAndBlade\dev\lib\1.2.9\TaleWorlds.Engine.AutoGenerated.dll</HintPath>
     </Reference>
     <Reference Include="TaleWorlds.Engine.GauntletUI, Version=1.0.0.0, Culture=neutral, processorArchitecture=AMD64">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>E:\MountAndBlade\dev\lib\1.1.6\TaleWorlds.Engine.GauntletUI.dll</HintPath>
+      <HintPath>E:\MountAndBlade\dev\lib\1.2.9\TaleWorlds.Engine.GauntletUI.dll</HintPath>
     </Reference>
     <Reference Include="TaleWorlds.GauntletUI, Version=1.0.0.0, Culture=neutral, processorArchitecture=AMD64">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>E:\MountAndBlade\dev\lib\1.1.6\TaleWorlds.GauntletUI.dll</HintPath>
+      <HintPath>E:\MountAndBlade\dev\lib\1.2.9\TaleWorlds.GauntletUI.dll</HintPath>
     </Reference>
     <Reference Include="TaleWorlds.GauntletUI.CodeGenerator, Version=0.0.0.0, Culture=neutral, processorArchitecture=AMD64">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>E:\MountAndBlade\dev\lib\1.1.6\TaleWorlds.GauntletUI.CodeGenerator.dll</HintPath>
+      <HintPath>E:\MountAndBlade\dev\lib\1.2.9\TaleWorlds.GauntletUI.CodeGenerator.dll</HintPath>
     </Reference>
     <Reference Include="TaleWorlds.GauntletUI.Data, Version=1.0.0.0, Culture=neutral, processorArchitecture=AMD64">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>E:\MountAndBlade\dev\lib\1.1.6\TaleWorlds.GauntletUI.Data.dll</HintPath>
+      <HintPath>E:\MountAndBlade\dev\lib\1.2.9\TaleWorlds.GauntletUI.Data.dll</HintPath>
     </Reference>
     <Reference Include="TaleWorlds.GauntletUI.ExtraWidgets, Version=1.0.0.0, Culture=neutral, processorArchitecture=AMD64">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>E:\MountAndBlade\dev\lib\1.1.6\TaleWorlds.GauntletUI.ExtraWidgets.dll</HintPath>
+      <HintPath>E:\MountAndBlade\dev\lib\1.2.9\TaleWorlds.GauntletUI.ExtraWidgets.dll</HintPath>
     </Reference>
     <Reference Include="TaleWorlds.GauntletUI.PrefabSystem, Version=1.0.0.0, Culture=neutral, processorArchitecture=AMD64">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>E:\MountAndBlade\dev\lib\1.1.6\TaleWorlds.GauntletUI.PrefabSystem.dll</HintPath>
+      <HintPath>E:\MountAndBlade\dev\lib\1.2.9\TaleWorlds.GauntletUI.PrefabSystem.dll</HintPath>
     </Reference>
     <Reference Include="TaleWorlds.GauntletUI.TooltipExtensions, Version=1.0.0.0, Culture=neutral, processorArchitecture=AMD64">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>E:\MountAndBlade\dev\lib\1.1.6\TaleWorlds.GauntletUI.TooltipExtensions.dll</HintPath>
+      <HintPath>E:\MountAndBlade\dev\lib\1.2.9\TaleWorlds.GauntletUI.TooltipExtensions.dll</HintPath>
     </Reference>
     <Reference Include="TaleWorlds.InputSystem, Version=1.0.0.0, Culture=neutral, processorArchitecture=AMD64">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>E:\MountAndBlade\dev\lib\1.1.6\TaleWorlds.InputSystem.dll</HintPath>
+      <HintPath>E:\MountAndBlade\dev\lib\1.2.9\TaleWorlds.InputSystem.dll</HintPath>
     </Reference>
     <Reference Include="TaleWorlds.Library, Version=1.0.0.0, Culture=neutral, processorArchitecture=AMD64">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>E:\MountAndBlade\dev\lib\1.1.6\TaleWorlds.Library.dll</HintPath>
+      <HintPath>E:\MountAndBlade\dev\lib\1.2.9\TaleWorlds.Library.dll</HintPath>
     </Reference>
     <Reference Include="TaleWorlds.LinQuick, Version=1.0.0.0, Culture=neutral, processorArchitecture=AMD64">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>E:\MountAndBlade\dev\lib\1.1.6\TaleWorlds.LinQuick.dll</HintPath>
+      <HintPath>E:\MountAndBlade\dev\lib\1.2.9\TaleWorlds.LinQuick.dll</HintPath>
     </Reference>
     <Reference Include="TaleWorlds.Localization, Version=1.0.0.0, Culture=neutral, processorArchitecture=AMD64">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>E:\MountAndBlade\dev\lib\1.1.6\TaleWorlds.Localization.dll</HintPath>
+      <HintPath>E:\MountAndBlade\dev\lib\1.2.9\TaleWorlds.Localization.dll</HintPath>
     </Reference>
     <Reference Include="TaleWorlds.ModuleManager, Version=1.0.0.0, Culture=neutral, processorArchitecture=AMD64">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>E:\MountAndBlade\dev\lib\1.1.6\TaleWorlds.ModuleManager.dll</HintPath>
+      <HintPath>E:\MountAndBlade\dev\lib\1.2.9\TaleWorlds.ModuleManager.dll</HintPath>
     </Reference>
     <Reference Include="TaleWorlds.MountAndBlade, Version=1.0.0.0, Culture=neutral, processorArchitecture=AMD64">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>E:\MountAndBlade\dev\lib\1.1.6\TaleWorlds.MountAndBlade.dll</HintPath>
+      <HintPath>E:\MountAndBlade\dev\lib\1.2.9\TaleWorlds.MountAndBlade.dll</HintPath>
     </Reference>
     <Reference Include="TaleWorlds.MountAndBlade.AutoGenerated, Version=1.0.0.0, Culture=neutral, processorArchitecture=AMD64">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>E:\MountAndBlade\dev\lib\1.1.6\TaleWorlds.MountAndBlade.AutoGenerated.dll</HintPath>
+      <HintPath>E:\MountAndBlade\dev\lib\1.2.9\TaleWorlds.MountAndBlade.AutoGenerated.dll</HintPath>
     </Reference>
     <Reference Include="TaleWorlds.MountAndBlade.Diamond, Version=1.0.0.0, Culture=neutral, processorArchitecture=AMD64">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>E:\MountAndBlade\dev\lib\1.1.6\TaleWorlds.MountAndBlade.Diamond.dll</HintPath>
+      <HintPath>E:\MountAndBlade\dev\lib\1.2.9\TaleWorlds.MountAndBlade.Diamond.dll</HintPath>
     </Reference>
     <Reference Include="TaleWorlds.MountAndBlade.GauntletUI.Widgets, Version=1.0.0.0, Culture=neutral, processorArchitecture=AMD64">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>E:\MountAndBlade\dev\lib\1.1.6\TaleWorlds.MountAndBlade.GauntletUI.Widgets.dll</HintPath>
+      <HintPath>E:\MountAndBlade\dev\lib\1.2.9\TaleWorlds.MountAndBlade.GauntletUI.Widgets.dll</HintPath>
     </Reference>
     <Reference Include="TaleWorlds.MountAndBlade.Helpers, Version=1.0.0.0, Culture=neutral, processorArchitecture=AMD64">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>E:\MountAndBlade\dev\lib\1.1.6\TaleWorlds.MountAndBlade.Helpers.dll</HintPath>
+      <HintPath>E:\MountAndBlade\dev\lib\1.2.9\TaleWorlds.MountAndBlade.Helpers.dll</HintPath>
     </Reference>
     <Reference Include="TaleWorlds.MountAndBlade.Launcher.Library, Version=1.0.0.0, Culture=neutral, processorArchitecture=AMD64">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>E:\MountAndBlade\dev\lib\1.1.6\TaleWorlds.MountAndBlade.Launcher.Library.dll</HintPath>
+      <HintPath>E:\MountAndBlade\dev\lib\1.2.9\TaleWorlds.MountAndBlade.Launcher.Library.dll</HintPath>
     </Reference>
     <Reference Include="TaleWorlds.MountAndBlade.Launcher.Steam, Version=1.0.0.0, Culture=neutral, processorArchitecture=AMD64">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>E:\MountAndBlade\dev\lib\1.1.6\TaleWorlds.MountAndBlade.Launcher.Steam.dll</HintPath>
+      <HintPath>E:\MountAndBlade\dev\lib\1.2.9\TaleWorlds.MountAndBlade.Launcher.Steam.dll</HintPath>
+    </Reference>
+    <Reference Include="TaleWorlds.MountAndBlade.Multiplayer.Test">
+      <HintPath>E:\MountAndBlade\dev\lib\1.2.9\TaleWorlds.MountAndBlade.Multiplayer.Test.dll</HintPath>
     </Reference>
     <Reference Include="TaleWorlds.MountAndBlade.ViewModelCollection, Version=1.0.0.0, Culture=neutral, processorArchitecture=AMD64">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>E:\MountAndBlade\dev\lib\1.1.6\TaleWorlds.MountAndBlade.ViewModelCollection.dll</HintPath>
+      <HintPath>E:\MountAndBlade\dev\lib\1.2.9\TaleWorlds.MountAndBlade.ViewModelCollection.dll</HintPath>
     </Reference>
     <Reference Include="TaleWorlds.NavigationSystem, Version=1.0.0.0, Culture=neutral, processorArchitecture=AMD64">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>E:\MountAndBlade\dev\lib\1.1.6\TaleWorlds.NavigationSystem.dll</HintPath>
+      <HintPath>E:\MountAndBlade\dev\lib\1.2.9\TaleWorlds.NavigationSystem.dll</HintPath>
     </Reference>
     <Reference Include="TaleWorlds.Network, Version=1.0.0.0, Culture=neutral, processorArchitecture=AMD64">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>E:\MountAndBlade\dev\lib\1.1.6\TaleWorlds.Network.dll</HintPath>
+      <HintPath>E:\MountAndBlade\dev\lib\1.2.9\TaleWorlds.Network.dll</HintPath>
     </Reference>
     <Reference Include="TaleWorlds.ObjectSystem, Version=1.0.0.0, Culture=neutral, processorArchitecture=AMD64">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>E:\MountAndBlade\dev\lib\1.1.6\TaleWorlds.ObjectSystem.dll</HintPath>
+      <HintPath>E:\MountAndBlade\dev\lib\1.2.9\TaleWorlds.ObjectSystem.dll</HintPath>
     </Reference>
     <Reference Include="TaleWorlds.PlatformService, Version=1.0.0.0, Culture=neutral, processorArchitecture=AMD64">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>E:\MountAndBlade\dev\lib\1.1.6\TaleWorlds.PlatformService.dll</HintPath>
+      <HintPath>E:\MountAndBlade\dev\lib\1.2.9\TaleWorlds.PlatformService.dll</HintPath>
     </Reference>
     <Reference Include="TaleWorlds.PlatformService.Epic, Version=1.0.0.0, Culture=neutral, processorArchitecture=AMD64">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>E:\MountAndBlade\dev\lib\1.1.6\TaleWorlds.PlatformService.Epic.dll</HintPath>
+      <HintPath>E:\MountAndBlade\dev\lib\1.2.9\TaleWorlds.PlatformService.Epic.dll</HintPath>
     </Reference>
     <Reference Include="TaleWorlds.PlatformService.GOG, Version=1.0.0.0, Culture=neutral, processorArchitecture=AMD64">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>E:\MountAndBlade\dev\lib\1.1.6\TaleWorlds.PlatformService.GOG.dll</HintPath>
+      <HintPath>E:\MountAndBlade\dev\lib\1.2.9\TaleWorlds.PlatformService.GOG.dll</HintPath>
     </Reference>
     <Reference Include="TaleWorlds.PlatformService.Steam, Version=1.0.0.0, Culture=neutral, processorArchitecture=AMD64">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>E:\MountAndBlade\dev\lib\1.1.6\TaleWorlds.PlatformService.Steam.dll</HintPath>
+      <HintPath>E:\MountAndBlade\dev\lib\1.2.9\TaleWorlds.PlatformService.Steam.dll</HintPath>
     </Reference>
     <Reference Include="TaleWorlds.PlayerServices, Version=1.0.0.0, Culture=neutral, processorArchitecture=AMD64">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>E:\MountAndBlade\dev\lib\1.1.6\TaleWorlds.PlayerServices.dll</HintPath>
+      <HintPath>E:\MountAndBlade\dev\lib\1.2.9\TaleWorlds.PlayerServices.dll</HintPath>
     </Reference>
     <Reference Include="TaleWorlds.PSAI, Version=1.0.0.0, Culture=neutral, processorArchitecture=AMD64">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>E:\MountAndBlade\dev\lib\1.1.6\TaleWorlds.PSAI.dll</HintPath>
+      <HintPath>E:\MountAndBlade\dev\lib\1.2.9\TaleWorlds.PSAI.dll</HintPath>
     </Reference>
     <Reference Include="TaleWorlds.SaveSystem, Version=1.0.0.0, Culture=neutral, processorArchitecture=AMD64">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>E:\MountAndBlade\dev\lib\1.1.6\TaleWorlds.SaveSystem.dll</HintPath>
+      <HintPath>E:\MountAndBlade\dev\lib\1.2.9\TaleWorlds.SaveSystem.dll</HintPath>
     </Reference>
     <Reference Include="TaleWorlds.ScreenSystem, Version=1.0.0.0, Culture=neutral, processorArchitecture=AMD64">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>E:\MountAndBlade\dev\lib\1.1.6\TaleWorlds.ScreenSystem.dll</HintPath>
+      <HintPath>E:\MountAndBlade\dev\lib\1.2.9\TaleWorlds.ScreenSystem.dll</HintPath>
     </Reference>
     <Reference Include="TaleWorlds.ServiceDiscovery.Client, Version=1.0.0.0, Culture=neutral, processorArchitecture=AMD64">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>E:\MountAndBlade\dev\lib\1.1.6\TaleWorlds.ServiceDiscovery.Client.dll</HintPath>
+      <HintPath>E:\MountAndBlade\dev\lib\1.2.9\TaleWorlds.ServiceDiscovery.Client.dll</HintPath>
     </Reference>
     <Reference Include="TaleWorlds.Starter.Library, Version=1.0.0.0, Culture=neutral, processorArchitecture=AMD64">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>E:\MountAndBlade\dev\lib\1.1.6\TaleWorlds.Starter.Library.dll</HintPath>
+      <HintPath>E:\MountAndBlade\dev\lib\1.2.9\TaleWorlds.Starter.Library.dll</HintPath>
     </Reference>
     <Reference Include="TaleWorlds.TwoDimension, Version=1.0.0.0, Culture=neutral, processorArchitecture=AMD64">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>E:\MountAndBlade\dev\lib\1.1.6\TaleWorlds.TwoDimension.dll</HintPath>
+      <HintPath>E:\MountAndBlade\dev\lib\1.2.9\TaleWorlds.TwoDimension.dll</HintPath>
     </Reference>
     <Reference Include="TaleWorlds.TwoDimension.Standalone, Version=1.0.0.0, Culture=neutral, processorArchitecture=AMD64">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>E:\MountAndBlade\dev\lib\1.1.6\TaleWorlds.TwoDimension.Standalone.dll</HintPath>
+      <HintPath>E:\MountAndBlade\dev\lib\1.2.9\TaleWorlds.TwoDimension.Standalone.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
