@@ -1,16 +1,16 @@
 <Module>
     <Name value="Harem King v3"/>
     <Id value="HaremKingv3"/>
-    <Version value="v1.1.1"/>
+    <Version value="v1.1.2"/>
     <SingleplayerModule value="true"/>
     <MultiplayerModule value="false"/>
     <DependedModules>
-        <DependedModule Id="Native" DependentVersion="v1.1.6"/>
-        <DependedModule Id="SandBoxCore" DependentVersion="v1.1.6"/>
-        <DependedModule Id="Sandbox" DependentVersion="v1.1.6"/>
-        <DependedModule Id="CustomBattle" DependentVersion="v1.1.6"/>
-        <DependedModule Id="StoryMode" DependentVersion="v1.1.6"/>
-		<DependedModule Id="Bannerlord.Harmony" DependentVersion="v2.3.0" />
+        <DependedModule Id="Native" DependentVersion="v1.2.9"/>
+        <DependedModule Id="SandBoxCore" DependentVersion="v1.2.9"/>
+        <DependedModule Id="Sandbox" DependentVersion="v1.2.9"/>
+        <DependedModule Id="CustomBattle" DependentVersion="v1.2.9"/>
+        <DependedModule Id="StoryMode" DependentVersion="v1.2.9"/>
+		<DependedModule Id="Bannerlord.Harmony" DependentVersion="v2.3.3" />
     </DependedModules>
     <SubModules>
         <SubModule>
