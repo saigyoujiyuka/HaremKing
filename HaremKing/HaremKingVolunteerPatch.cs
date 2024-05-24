@@ -10,7 +10,7 @@ using TaleWorlds.CampaignSystem.GameComponents;
 using TaleWorlds.Library;
 using TaleWorlds.ObjectSystem;
 
-namespace HaremKingv3
+namespace HaremKing
 {
     //[HarmonyPatch(typeof(DefaultVolunteerModel), "GetBasicVolunteer")]
     //internal class HaremKingVolunteerPatch

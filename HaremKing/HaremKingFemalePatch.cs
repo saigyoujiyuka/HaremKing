@@ -2,7 +2,7 @@
 using HarmonyLib;
 using TaleWorlds.CampaignSystem;
 
-namespace HaremKingv3.Patches
+namespace HaremKing.Patches
 {
     [HarmonyPatch(typeof(CharacterObject), "IsFemale", MethodType.Getter)]
     internal class HaremKingFemalePatch

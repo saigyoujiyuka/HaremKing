@@ -1,6 +1,6 @@
 <Module>
-    <Name value="Harem King v3"/>
-    <Id value="HaremKingv3"/>
+    <Name value="Harem King"/>
+    <Id value="HaremKing"/>
     <Version value="v1.1.2"/>
     <SingleplayerModule value="true"/>
     <MultiplayerModule value="false"/>
@@ -14,9 +14,9 @@
     </DependedModules>
     <SubModules>
         <SubModule>
-            <Name value="HaremKingv3"/>
-            <DLLName value="HaremKingv3.dll"/>
-            <SubModuleClassType value="HaremKingv3.HaremKingv3SubModule"/>
+            <Name value="HaremKing"/>
+            <DLLName value="HaremKing.dll"/>
+            <SubModuleClassType value="HaremKing.HaremKingSubModule"/>
             <Tags>
                 <Tag key="DedicatedServerType" value="none"/>
                 <Tag key="IsNoRenderModeElement" value="false"/>

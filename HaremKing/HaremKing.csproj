@@ -7,8 +7,8 @@
     <ProjectGuid>{30B388AA-13A3-40DE-9B9F-0EF500F0F53C}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>HaremKingv3</RootNamespace>
-    <AssemblyName>HaremKingv3</AssemblyName>
+    <RootNamespace>HaremKing</RootNamespace>
+    <AssemblyName>HaremKing</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
@@ -257,7 +257,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="HaremKingFemalePatch.cs" />
-    <Compile Include="HaremKingv3SubModule.cs" />
+    <Compile Include="HaremKingSubModule.cs" />
     <Compile Include="HaremKingVolunteerPatch.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
