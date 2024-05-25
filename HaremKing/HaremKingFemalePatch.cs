@@ -12,14 +12,13 @@ namespace HaremKing.Patches
             Occupation occupation = __instance.Occupation;
             bool IsPlayerCharacter = __instance.IsPlayerCharacter;
 
-            List<Occupation> excludedOccupations = new List<Occupation>()
+            List<Occupation> femaleOccupations = new List<Occupation>()
             {
-                Occupation.NotAssigned,
-                Occupation.Lord,
-                Occupation.Special,
-                Occupation.NumberOfOccupations,
+                Occupation.Mercenary,
+                Occupation.Soldier,
+                Occupation.Bandit
             };
-            if (IsPlayerCharacter || excludedOccupations.Contains(occupation))
+            if (IsPlayerCharacter || !femaleOccupations.Contains(occupation))
             {
                 return true;
             }
