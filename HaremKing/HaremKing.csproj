@@ -256,6 +256,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="HaremKingDisableDonationPatch.cs" />
     <Compile Include="HaremKingFemalePatch.cs" />
     <Compile Include="HaremKingSubModule.cs" />
     <Compile Include="HaremKingVolunteerPatch.cs" />
