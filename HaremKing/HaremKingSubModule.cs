@@ -4,9 +4,9 @@ using TaleWorlds.Library;
 using TaleWorlds.Localization;
 using TaleWorlds.MountAndBlade;
 
-namespace HaremKingv3
+namespace HaremKing
 {
-    public class HaremKingv3SubModule : MBSubModuleBase
+    public class HaremKingSubModule : MBSubModuleBase
     {
         protected override void OnSubModuleLoad()
         {
@@ -19,7 +19,7 @@ namespace HaremKingv3
                 () => { return (false, null); }
                 )
             );
-            new Harmony("HaremKingv3").PatchAll();
+            new Harmony("HaremKing").PatchAll();
         }
 
         protected override void OnGameStart(Game game, IGameStarter gameStarterObject)
